@@ -1,0 +1,12 @@
+This project is a bundle of various other projects.
+
+Each project has is own license, and any patches to them are under the original
+license.
+
+Any source code not covered by a project license is GPLv3.
+
+OpenSSL:
+    openssl/LICENSE
+
+curl:
+    curl/docs/LICENSE-MIXING
