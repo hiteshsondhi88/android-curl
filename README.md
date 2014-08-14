@@ -14,6 +14,7 @@ Instructions
   1. git submodule update --init
   2. ./android_build.sh
 * Find the executable binary in build directory.
+* For working example check this repository - https://github.com/hiteshsondhi88/androidcurlsample
 
 License
 ----
