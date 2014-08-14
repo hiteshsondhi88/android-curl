@@ -4,3 +4,6 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/openssl/openssl.git
+[submodule "androidcurlsample"]
+	path = androidcurlsample
+	url = git@github.com:hiteshsondhi88/androidcurlsample.git
