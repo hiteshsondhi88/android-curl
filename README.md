@@ -7,6 +7,19 @@ Supported Architecture
 ----
 * arm
 
+Requirements
+------------
+
+* Android NDK 
+* automake (curl)
+* autoconf (curl)
+* CMake (curl)
+* Perl 5 (openssl)
+
+In OSX, easiest is to install via [Homebrew](http://brew.sh/)
+
+`brew install autoconf automake cmake`
+
 Instructions
 ----
 * Edit settings.sh and set ANDROID_NDK_ROOT_PATH according to your NDK root path
